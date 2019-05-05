@@ -1,0 +1,76 @@
+{"frames": [
+
+{
+	"filename": "baleia.png",
+	"frame": {"x":1,"y":1,"w":538,"h":545},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":3,"y":0,"w":538,"h":545},
+	"sourceSize": {"w":545,"h":545}
+},
+{
+	"filename": "cavalo.png",
+	"frame": {"x":541,"y":1,"w":538,"h":545},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":3,"y":0,"w":538,"h":545},
+	"sourceSize": {"w":545,"h":545}
+},
+{
+	"filename": "coruja.png",
+	"frame": {"x":1081,"y":1,"w":538,"h":545},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":3,"y":0,"w":538,"h":545},
+	"sourceSize": {"w":545,"h":545}
+},
+{
+	"filename": "elefante.png",
+	"frame": {"x":1,"y":548,"w":538,"h":545},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":3,"y":0,"w":538,"h":545},
+	"sourceSize": {"w":545,"h":545}
+},
+{
+	"filename": "girafa.png",
+	"frame": {"x":541,"y":548,"w":538,"h":545},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":3,"y":0,"w":538,"h":545},
+	"sourceSize": {"w":545,"h":545}
+},
+{
+	"filename": "leao.png",
+	"frame": {"x":1081,"y":548,"w":538,"h":545},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":4,"y":0,"w":538,"h":545},
+	"sourceSize": {"w":545,"h":545}
+},
+{
+	"filename": "passaro.png",
+	"frame": {"x":1,"y":1095,"w":539,"h":545},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":3,"y":0,"w":539,"h":545},
+	"sourceSize": {"w":545,"h":545}
+},
+{
+	"filename": "pato.png",
+	"frame": {"x":542,"y":1095,"w":538,"h":545},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":3,"y":0,"w":538,"h":545},
+	"sourceSize": {"w":545,"h":545}
+}],
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "images.png",
+	"format": "RGBA8888",
+	"size": {"w":1620,"h":1641},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:44536d8036056e3a680bbc5e5a2cfe8e:d3aff7a1da7872f31823711ff7d7360f:9be8c185d95a5be4a06ec0067a3d8380$"
+}
+}
