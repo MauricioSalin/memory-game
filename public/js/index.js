@@ -164,7 +164,7 @@ const loadGame = () => {
 
 			// Fundo para a carta virada (preto com transparência)
 			tile.tint = 0x000000;
-			tile.alpha = 0.7;
+			tile.alpha = 0.8;
 
 			// Adiciona carta na cena
 			gameContainer.addChild(tile);
@@ -224,8 +224,8 @@ const loadGame = () => {
 									// Aplica o efeito de esconder novamente
 									firstTile.tint = 0x000000;
 									secondTile.tint = 0x000000;
-									firstTile.alpha = 0.7;
-									secondTile.alpha = 0.7;
+									firstTile.alpha = 0.8;
+									secondTile.alpha = 0.8;
 
 									firstTile = null;
 									secondTile = null;
