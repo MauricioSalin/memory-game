@@ -2,6 +2,8 @@
 
 Aplicação desenvolvida para a disciplina de Computação gráfica 2019/1
 
+https://wild-memory-game.herokuapp.com
+
 ## Tecnologias utilizadas
 
 * Node.js
